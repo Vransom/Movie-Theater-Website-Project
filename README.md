@@ -14,3 +14,12 @@ As well as the CSS Styling: <br>
 Here is a gif of the Rental class with three options for selecting a rental with CRUD functionality. It is a main rental option with two inherited classes: Rental Equipment and Rental Room. There is also the created controller to manage Create, Read, Update, and Delete funcionality. <br>
 
 ![](/rentalcontrollergif.gif)
+
+<br>
+Additonally, I used some Bootstrap to create and index page that seperates the three components, Rentals, Rental Equipment, and Rental Room, to highlight details about each one for easy user viewing. Users can click on each item to see details, edit them, or delete them. They can also create a new item at the top of the screen:<br>
+
+![](/indexgif.gif)
+<br>
+
+Another work item was to edit the "create" page to be able to select which section of option the user would be creating in a Rental, whether it be a rental room or rental equipment. I added dropdown functionality and used Javascript so that only the properties of the selected inherited class would show as an option:
+
