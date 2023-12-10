@@ -21,5 +21,8 @@ Additonally, I used some Bootstrap to create and index page that seperates the t
 ![](/indexgif.gif)
 <br>
 
-Another work item was to edit the "create" page to be able to select which section of option the user would be creating in a Rental, whether it be a rental room or rental equipment. I added dropdown functionality and used Javascript so that only the properties of the selected inherited class would show as an option:
+Another work item was to edit the "create" page to be able to select which section of option the user would be creating in a Rental, whether it be a rental room or rental equipment. I added dropdown functionality and used Javascript so that only the properties of the selected inherited class would show as an option:<br>
+
+![](/createpage.gif)
+<br>
 
