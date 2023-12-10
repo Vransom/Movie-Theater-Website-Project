@@ -11,3 +11,6 @@ As well as the CSS Styling: <br>
 
 ![](/AboutCSS.PNG)
 <h2>Back End Development</h2>
+Here is a gif of the Rental class with three options for selecting a rental with CRUD functionality. It is a main rental option with two inherited classes: Rental Equipment and Rental Room. There is also the created controller to manage Create, Read, Update, and Delete funcionality. <br>
+
+![](/rentalcontrollergif.gif)
